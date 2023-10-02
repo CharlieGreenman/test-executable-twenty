@@ -18,8 +18,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@test-executable-twenty/common/ui": [
-        "libs/common/ui/src/index.ts"
+      "@test-executable-twenty/home": [
+        "libs/home/src/index.ts"
       ]
     }
   },
